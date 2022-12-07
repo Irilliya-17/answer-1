@@ -18,21 +18,21 @@ License: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 
 ___
 
-## [Содержание](./content.md)
+## Содержание
 
-### [*Введение*](./introduction.md)
+1. ### [*Введение*](./introdaction.md)
 
-### [git add](./add.md)
+2. ### [git add](./add.md)
 
-### [git commit](./commit.md)
+3. ### [git commit](./commit.md)
 
-### [git init](./init.md)
+4. ### [git init](./init.md)
 
-### [git branch](./branch.md)
+5. ### [git branch](./branch.md)
 
-### [git push](./push.md)
+6. ### [git push](./push.md)
 
-### [git pull](./pull.md)
+7. ### [git pull](./pull.md)
 
 ### [*Заключение*](./conclusion.md)
 ___
